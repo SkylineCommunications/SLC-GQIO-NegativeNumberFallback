@@ -34,12 +34,12 @@ id: 02aec217-c9b5-4139-9a1a-251d33c3481f
 #   Max length: 100 characters.
 #   Cannot contain newlines.
 #   Cannot contain leading or trailing whitespace characters.
-title: Package
+title: Negative number transformer
 
 # [Optional]
 # General information about the Catalog item.
 #   Max length: 100,000 characters
-short_description: This is a custom solution for DataMiner.
+short_description: Transforms a number column so that all negative values are given another value instead.
 
 # [Optional]
 # A valid URL that points to the source code.
